@@ -1,4 +1,4 @@
- Volume in drive D is DATA
+ Volum in drive D is DATA
  Volume Serial Number is 204B-B721
 
  Directory of D:\Coding\GitHub\MyTest
