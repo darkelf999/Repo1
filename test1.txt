@@ -1,0 +1,10 @@
+ Volume in drive D is DATA
+ Volume Serial Number is 204B-B721
+
+ Directory of D:\Coding\GitHub\MyTest
+
+13-09-2021  12:08    <DIR>          .
+13-09-2021  12:08    <DIR>          ..
+13-09-2021  12:08                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  306,717,093,888 bytes free
