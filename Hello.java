@@ -4,6 +4,7 @@ public class Hello{
         System.out.println("Hi");
         int n =10;
         int a = 20;
+        int b = 90;
     }
 
     public static void show2(){
