@@ -3,6 +3,7 @@ public class Hello{
         System.out.println("Hi");
         System.out.println("Hi");
         int n =10;
+        int a = 20;
     }
 
     public static void show2(){
