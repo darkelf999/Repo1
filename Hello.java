@@ -3,3 +3,7 @@ public class Hello{
         System.out.println("Hi");
     }
 }
+    public static void show2(){
+        System.out.println("Hieee");
+    }
+}
